@@ -95,7 +95,10 @@ elseif (isset($_POST['backward'])){
  
  and link it to the database
  
- ![robots](https://user-images.githubusercontent.com/85842623/124465027-95565880-dd9d-11eb-9318-102f03015074.jpeg)
+  ![ro](https://user-images.githubusercontent.com/85842623/124465025-94252b80-dd9d-11eb-9078-8667fa66ee9f.jpeg)
+ 
+ ![robot](https://user-images.githubusercontent.com/85842623/124465182-c46cca00-dd9d-11eb-8bc2-7efb0fbb8620.jpeg)
+
 
  
  ## ROBOT2.php 
@@ -103,6 +106,8 @@ elseif (isset($_POST['backward'])){
  Records the last movement or button pressed of the robot's movement
  
  $sql ="SELECT *FROM robots  ORDER BY id DESC LIMIT 1"; 
+ 
+ ![robots](https://user-images.githubusercontent.com/85842623/124465027-95565880-dd9d-11eb-9318-102f03015074.jpeg)
  
  ## motor1.html 
  
