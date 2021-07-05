@@ -113,9 +113,10 @@ elseif (isset($_POST['backward'])){
  
  After I finished creating the robot movement control interface, it was integrated with the first task, which consisted of 6 robot engines.
  
- ## ro.jpeg 
+ ## mobile view.jpeg 
  
  Convert embedded interfaces to mobile web view
  
- ![ro](https://user-images.githubusercontent.com/85842623/124465025-94252b80-dd9d-11eb-9078-8667fa66ee9f.jpeg)
+![mobile view](https://user-images.githubusercontent.com/85842623/124468377-af923580-dda1-11eb-87af-c479176a2aaa.jpeg)
+
  
