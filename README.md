@@ -95,6 +95,9 @@ elseif (isset($_POST['backward'])){
  
  and link it to the database
  
+ ![robots](https://user-images.githubusercontent.com/85842623/124465027-95565880-dd9d-11eb-9318-102f03015074.jpeg)
+
+ 
  ## ROBOT2.php 
  
  Records the last movement or button pressed of the robot's movement
